@@ -5,8 +5,9 @@ The enterprise has a plan to increase its revenue by allocating various products
 
 **Analysis: **
 To target customers to recommend various products, the company has to work on the existing data and develop a solution where the customers are likely to use the recommended product. 
-**
-What is a recommender system?**
+
+
+**What is a recommender system?**
 Recommender systems are information filtering systems that deal with information overload by filtering vital information fragment out of a large amount of dynamically generated information according to the user’s preferences, interest, or observed behavior about an item. The recommendation system can predict whether a particular user would prefer an item or not based on the user’s profile. Therefore, the need to use efficient and accurate recommendation techniques within a system that will provide relevant and dependable recommendations for users cannot be over-emphasized.
 
 **Dataset:**
